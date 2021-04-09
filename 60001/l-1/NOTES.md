@@ -4,7 +4,6 @@ Introduction to Computation and Programming Using Python: With Application to Un
 Chapters 1 and 2.1
 
 Chapter 1
-
 If a program has not syntatic errors and no static semantic errors then it has semantics or mearning. In other words it can do something as it a legal set instructions a computer can execute this does not mean that it will produce the expected result - the program can easily be wrong.
 
 FE: Write an algorithm for driving between two desitnations for a person

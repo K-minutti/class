@@ -1,4 +1,4 @@
-#This is the code for PSET 0
+#Code for PSET 0
 import numpy 
 
 #Ask user for input x
