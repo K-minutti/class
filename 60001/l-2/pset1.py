@@ -49,3 +49,19 @@ print(f"Number of months:  {num_of_months}")
 
 
 #Part C: Finding the right amount to save 
+time = 36
+semi_annual_raise = .07 
+r = (current_savings*0.04)/12
+down_payment = 0.25 * 1000000
+
+salary = float(input("Enter that starting salary: "))
+
+best_savings_rate = 0
+steps = 0
+
+#while we do not reach 36 months and we are not equal to greater than the down_payment 
+#we must continue to iterate
+
+#output best savings rate and steps in bisection search
+print(f"Best savings rate: {best_savings_rate}")
+print(f"Steps in bisection search: {steps}")
